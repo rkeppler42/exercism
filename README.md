@@ -32,7 +32,7 @@ exercism/
 
 
 - **One folder per exercise.**  
-- **One file per folder** containing the **latest solution**.  
+- **Three files per solution** containing the **latest solution**, **test** and **readme.md**.  
 - Historical iterations and refactors remain only on **Exercism**, not in this repo.
 
 ---
@@ -49,7 +49,7 @@ exercism/
 
 | Language      | Progress | Link to Track |
 |---------------|---------|---------------|
-| [Python](https://github.com/rkeppler42/exercism/tree/main/python) 🐍     | 1/146 exercises | [Exercism Python](https://exercism.org/tracks/python) |
+| [Python](https://github.com/rkeppler42/exercism/tree/main/python) 🐍     | 2/145 exercises | [Exercism Python](https://exercism.org/tracks/python) |
 | C# ⚡        | 0/174 exercises | [Exercism C#](https://exercism.org/tracks/csharp) |
 | JavaScript 🌐 | 0/153 exercises | [Exercism JS](https://exercism.org/tracks/javascript) |
 
@@ -72,5 +72,5 @@ docs(js): add README for "Reverse String"
 
 ## 🌱 About
 
-I’m Roberto, a Game Development and Software Engineering student.  
+I’m Roberto, a Software Engineering student.  
 I practice regularly to improve my coding skills, focusing on **C#**, **Python**, and **JavaScript** for game dev and software projects.  
