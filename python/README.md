@@ -8,3 +8,4 @@
 - [Collatz Conjucture](https://github.com/rkeppler42/exercism/tree/main/python/collatz_conjecture)
 ## ⚖️ Bool 
 - [Ghost Gobble Arcade Game](https://github.com/rkeppler42/exercism/tree/main/python/ghost_gobble_arcade_game)
+- [Leap](https://github.com/rkeppler42/exercism/tree/main/python/leap)
