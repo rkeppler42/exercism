@@ -5,3 +5,4 @@
 - [Currency Exchange](https://github.com/rkeppler42/exercism/tree/main/python/currency_exchange)
 - [Grains](https://github.com/rkeppler42/exercism/tree/main/python/grains)
 - [Armstrong Numbers](https://github.com/rkeppler42/exercism/tree/main/python/armstrong_numbers)
+- [Collatz Conjucture](https://github.com/rkeppler42/exercism/tree/main/python/collatz_conjecture)
