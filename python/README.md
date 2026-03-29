@@ -11,4 +11,5 @@
 - [Leap](https://github.com/rkeppler42/exercism/tree/main/python/leap)
 - [Triangle](https://github.com/rkeppler42/exercism/tree/main/python/triangle)
 ## 🔀 Conditionals
+- [Meltdown Mitigation](https://github.com/rkeppler42/exercism/tree/main/python/meltdown_mitigation)
 - [Bob](https://github.com/rkeppler42/exercism/tree/main/python/bob)
