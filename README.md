@@ -49,7 +49,7 @@ exercism/
 
 | Language      | Progress | Link to Track |
 |---------------|---------|---------------|
-| [Python](https://github.com/rkeppler42/exercism/tree/main/python) 🐍     | 10/145 exercises | [Exercism Python](https://exercism.org/tracks/python) |
+| [Python](https://github.com/rkeppler42/exercism/tree/main/python) 🐍     | 11/145 exercises | [Exercism Python](https://exercism.org/tracks/python) |
 | C# ⚡        | 0/174 exercises | [Exercism C#](https://exercism.org/tracks/csharp) |
 | JavaScript 🌐 | 0/153 exercises | [Exercism JS](https://exercism.org/tracks/javascript) |
 
