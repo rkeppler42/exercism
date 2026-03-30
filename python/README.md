@@ -13,3 +13,4 @@
 ## 🔀 Conditionals
 - [Meltdown Mitigation](https://github.com/rkeppler42/exercism/tree/main/python/meltdown_mitigation)
 - [Bob](https://github.com/rkeppler42/exercism/tree/main/python/bob)
+- [Raindrops](https://github.com/rkeppler42/exercism/tree/main/python/raindrops)
